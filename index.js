@@ -137,6 +137,7 @@ function guessLetter() {
                         console.log(textColor('You lose!\n'));
                         console.log(textColor(`Wins: ${wins}`));
                         console.log(textColor(`Losses: ${losses}\n`));
+                        console.log(textColor('The correct national park was: ')+textColor1(`${randomWord}\n`));
                         restartGame();
                     }
                 }
