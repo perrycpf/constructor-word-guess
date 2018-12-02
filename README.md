@@ -2,8 +2,7 @@
 
 * **Game Information**: This is a node.js based application with interactive prompts on the command-line. The theme is 27 national parks of Canada. Good luck and enjoy the game!
 
-
-1. The game requires these npm packages: (inquirer, is-letter, cli-color, figlet)
+  * The game requires these npm packages: inquirer, is-letter, cli-color and figlet
 
 
 * **Letter.js**: Contains a constructor, Letter. This constructor either displays an underlying character or a blank placeholder (such as an underscore), depending on whether or not the player has guessed the letter. 
@@ -22,6 +21,8 @@
 
 * **Screenshot Images**
 
-![wordguess1](https://user-images.githubusercontent.com/33642075/39459511-0cc8da04-4cca-11e8-81f2-5fb5d9b0c64a.PNG)
+![wordguess1](./assets/images/Image1.png)
 
+![wordguess2](./assets/images/Image2.png)
 
+![wordguess3](./assets/images/Image3.png)
