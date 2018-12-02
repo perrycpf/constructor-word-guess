@@ -1,6 +1,6 @@
 # Constructor Word Guess Game
 
-* **Game Information**: This is a node.js based application with interactive prompts on the command-line. The theme is 27 national parks of Canada. Good luck and enjoy the game!
+**Game Information**: This is a node.js based application with interactive prompts on the command-line. The theme is 27 national parks of Canada. Good luck and enjoy the game!
 
 1. The game requires these npm packages installation: inquirer, is-letter, cli-color and figlet
 
